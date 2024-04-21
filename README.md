@@ -1,5 +1,5 @@
 # EC2202
-C++ code collection 
+C++ code collection for Data Structures
 
 ## LinkedList
 
